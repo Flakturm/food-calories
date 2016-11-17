@@ -1,0 +1,55 @@
+[
+    {
+        "name": "rougin/codeigniter",
+        "version": "v3.1.2",
+        "version_normalized": "3.1.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/rougin/codeigniter.git",
+            "reference": "88746742f7ee25dfa028cabc00f9740ed606e5de"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rougin/codeigniter/zipball/88746742f7ee25dfa028cabc00f9740ed606e5de",
+            "reference": "88746742f7ee25dfa028cabc00f9740ed606e5de",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "suggest": {
+            "rougin/combustor": "Lets you generate controllers, models, and views from database tables for CodeIgniter",
+            "rougin/refinery": "\"Ready-to-eat\" migrations for CodeIgniter",
+            "rougin/spark-plug": "Obtains an instance of CodeIgniter gracefully"
+        },
+        "time": "2016-11-11 00:59:31",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.2-dev"
+            }
+        },
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Rougin Royce Gutib",
+                "email": "rougingutib@gmail.com",
+                "homepage": "http://rougin.github.io",
+                "role": "Developer"
+            }
+        ],
+        "description": "Yet another way to install CodeIgniter via Composer",
+        "homepage": "https://github.com/rougin/codeigniter",
+        "keywords": [
+            "codeigniter",
+            "composer",
+            "framework",
+            "mvc",
+            "php"
+        ]
+    }
+]
